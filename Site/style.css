@@ -1,4 +1,6 @@
 body{
+    font-family: 'Poppins',sans-serif;
     background-color: #a12345;
     color:blue;
+    .estudante-imagem{width: 100px;}
 }
