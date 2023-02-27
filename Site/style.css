@@ -1,6 +1,34 @@
 body{
-    font-family: 'Poppins',sans-serif;
-    background-color: #a12345;
-    color:blue;
-    .estudante-imagem{width: 100px;}
+    font-family: 'Coming Soon', cursive;
+    background-color: #F5B656B2;
+    color:orange;
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background-color: aqua;
+}
+.estudante{
+    color: green;
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15%;
+    padding: 10%;
+    }
+.estudante-imagem{
+    width: 30%;   
+    display: inline-block;
+    background-image: linear-gradient(orange,black);
+}
+*{
+    margin: 12px;
+    padding: 24px;
+}
+.rodape{
+    margin:0;
+    padding: 0;
+    color: darkmagenta;
 }
